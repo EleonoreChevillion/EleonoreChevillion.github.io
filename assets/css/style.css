@@ -175,3 +175,24 @@
       width: 100%;
     }
   }
+
+  @media (max-width: 500px) {
+    .whiteback {
+      padding: initial;
+      margin: 10px;
+    }
+    #picofmyself {
+      width: 60%;
+      margin: auto;
+    }
+    #blocktext {
+      margin: 10px;
+    }
+    .photo {
+      width: 80%;
+      margin: auto;
+    }
+    h2 {
+      margin-left: 10px;
+    }
+    }
